@@ -1,0 +1,20 @@
+//Book Collection
+
+{
+	_id	:	1234
+	isbn	:	1234	
+	author	:	'John Doe'
+	keywords:	[
+				'Web',
+				'Application'
+			]
+}
+
+//Student Collection
+
+{
+	_id		:	5678
+	borrowed-books	:	[
+					{book : '1234', due-date : '07/04/2017'}
+				]
+}
